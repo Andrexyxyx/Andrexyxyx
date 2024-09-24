@@ -1,4 +1,4 @@
-## Всем привет. Меня зовут Андрей, я QA Engineer 👋
+## Всем привет. Меня зовут Андрей, я инженер по тестированию 👋
 
 <!--
 **Andrexyxyx/Andrexyxyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
