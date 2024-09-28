@@ -2,6 +2,8 @@
 
 <p>text about me<p>
 
+<p>my CV<p> PDF
+
 <h2>Let's get in touch!<h2>
 <a href= "https://t.me/andrexy"><img src="https://img.icons8.com/?size=100&id=yEmPT1iidhE0&format=png&color=000000" width="40" height="40" alt="telegram"/></a>
 <a href= "https://join.skype.com/invite/DzOoj9Yt11ix"><img src="https://img.icons8.com/?size=100&id=Esrcu8IoZdus&format=png&color=000000" width="40" height="40" alt="gmail"/></a>
