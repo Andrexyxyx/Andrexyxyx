@@ -2,7 +2,7 @@
 
 <p>text about me<p>
 
-<p>my CV<p> PDF
+<p><img src="https://img.icons8.com/?size=100&id=CPookyWndobk&format=png&color=000000" width="20" height="20" alt="telegram"/> my CV<p> PDF
 
 <h2>Let's get in touch!<h2>
 <a href= "https://t.me/andrexy"><img src="https://img.icons8.com/?size=100&id=yEmPT1iidhE0&format=png&color=000000" width="40" height="40" alt="telegram"/></a>
