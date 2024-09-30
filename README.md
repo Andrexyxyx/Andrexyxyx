@@ -11,6 +11,7 @@
 <a href= "https://join.skype.com/invite/DzOoj9Yt11ix"><img src="https://img.icons8.com/?size=100&id=Esrcu8IoZdus&format=png&color=000000" width="40" height="40" alt="skype"/></a> 
 
 <h2>Some Tools I Use</h2>
+<p>
 <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" title="JIRA" alt="JIRA" width="40" height="40"/>
 <img src="https://marketplace.atlassian.com/files/6d82b909-ae65-46de-99d5-1c812e23388b?fileType=image&mode=full-fit" title="Zephyr" alt="Zephyr" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=h8EoAfgRDYLo&format=png&color=000000" title="Confluence" alt="Confluence" width="40" height="40"/>
@@ -35,6 +36,7 @@
 <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" title="Python" alt="Python" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=TLI9oiMzpREF&format=png&color=000000" title="Selenium" alt="Selenium" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=117121&format=png&color=000000" title="PyCharm" alt="PyCharm" width="40" height="40"/>
+</p>
 
 <h2>Test artifacts & helpful materials</h2>
 <p>Link 1</p>
