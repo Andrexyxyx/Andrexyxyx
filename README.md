@@ -1,6 +1,6 @@
 <h2>Hello everyone! My name is Andrey, I am a QA engineer. This is my GitHub.</h2>
 
-<p>Here I would like to share useful materials, tips and cheat sheets that I use for testing and more</p>
+<p>Here I would like to share useful materials, tips and cheat sheets that I use for testing and more.</p>
 
 <h3><img src="https://img.icons8.com/?size=100&id=CPookyWndobk&format=png&color=000000" width="20" height="20" alt="telegram"/> my CV (<a href= "https://drive.google.com/file/d/1uIbCYYXbSmPUkpqmL9a4lHgcoIWJD0wl/view?usp=sharing">PDF</a>)</h3>
 
@@ -40,14 +40,18 @@
 
 <h2>Test artifacts & helpful materials</h2>
 <p> 
- <ul>
-  <li>  <a href="https://github.com/osukhorukova/JavaTestAutomation/tree/master">Java Test Automation</a>  </li>
-<li>  <a href="https://github.com/osukhorukova/web_testing">Webshop testing</a>  </li>
-<li>  <a href="https://github.com/osukhorukova/api_testing"> REST and SOAP API testing via Postman </a>   </li>
-<li> <a href="https://github.com/osukhorukova/sql">MySQL</a>   </li>
-<li>  <a href="https://github.com/osukhorukova/mongodb">MongoDB</a>  </li>
-<li>  <a href="https://github.com/osukhorukova/mobile_testing"> Android app testing</a>   </li>
-<li> <a href="https://github.com/osukhorukova/charlesproxy">Replacing data with CharlesProxy</a>  </li>
-<li> <a href="https://github.com/osukhorukova/bash"> Bash </a>  </li>
-<li> <a href="https://github.com/osukhorukova/git"> Git </a> </li>
+<ul>
+<li><a href="https://github.com/osukhorukova/JavaTestAutomation/tree/master">!!!Java Test Automation</a></li>
+<li><a href="https://github.com/osukhorukova/web_testing">!!!Webshop testing</a></li>
+<li><a href="https://github.com/osukhorukova/api_testing">!!!REST and SOAP API testing via Postman </a></li>
+<li><a href="https://github.com/osukhorukova/sql">!!!MySQL</a></li>
+<li><a href="https://github.com/osukhorukova/mongodb">!!!MongoDB</a></li>
+<li><a href="https://github.com/osukhorukova/mobile_testing">!!!Android app testing</a></li>
+<li><a href="https://github.com/osukhorukova/charlesproxy">!!!Replacing data with CharlesProxy</a></li>
+<li><a href="https://github.com/osukhorukova/mongodb">!!!Bash</a></li>
+<li><a href="https://github.com/osukhorukova/mongodb">!!!Git</a></li>
+
+<li><a href="https://github.com/Andrexyxyx/SQL">SQL</a></li>
+<li><a href="https://github.com/Andrexyxyx/Python_Programming_Courses">Python. Programming Basics</a></li>
+<li><a href="https://github.com/Andrexyxyx/AutoTest_Python_Courses">Python Test Automation (with Selenium)</a></li>
 </ul> </p>
