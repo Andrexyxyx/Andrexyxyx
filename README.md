@@ -62,17 +62,16 @@
 <h2>Test Artifacts & Helpful Materials</h2>
 <p> 
 <ul>
-<li><a href="https://github.com/osukhorukova/JavaTestAutomation/tree/master">!!!Java Test Automation</a></li>
-<li><a href="https://github.com/osukhorukova/web_testing">!!!Webshop testing</a></li>
-<li><a href="https://github.com/osukhorukova/api_testing">!!!REST and SOAP API testing via Postman </a></li>
-<li><a href="https://github.com/osukhorukova/sql">!!!MySQL</a></li>
-<li><a href="https://github.com/osukhorukova/mongodb">!!!MongoDB</a></li>
-<li><a href="https://github.com/osukhorukova/mobile_testing">!!!Android app testing</a></li>
-<li><a href="https://github.com/osukhorukova/charlesproxy">!!!Replacing data with CharlesProxy</a></li>
-<li><a href="https://github.com/osukhorukova/mongodb">!!!Bash</a></li>
-<li><a href="https://github.com/osukhorukova/mongodb">!!!Git</a></li>
+<li><a href="https://github.com/Andrexyxyx/HTML_And_CSS/blob/master/HTML-examples">HTML</a></li>
+<li><a href="https://github.com/Andrexyxyx/HTML_And_CSS/blob/master/CSS-examples">CSS</a></li>
+<li><a href="https://github.com/Andrexyxyx/HTML_And_CSS/blob/master/LocatorsSearching-examples">Locators Searching</a></li>
 
-<li><a href="https://github.com/Andrexyxyx/SQL_And_NoSQL/blob/master/SQL-examples">Примеры основных SQL-запросов</a></li>
+<li><a href="https://github.com/Andrexyxyx/Linux_And_GIT/blob/master/Linux-examples">Linux Command</a></li>
+<li><a href="https://github.com/Andrexyxyx/Linux_And_GIT/blob/master/GIT-examples">GIT Command</a></li>
+
+<li><a href="https://github.com/Andrexyxyx/SQL_And_NoSQL/blob/master/SQL-examples">SQL-query</a></li>
+<li><a href="https://github.com/Andrexyxyx/SQL_And_NoSQL/blob/master/NoSQL-examples">NoSQL-query (MongoDB)</a></li>
+
 <li><a href="https://github.com/Andrexyxyx/Python_Programming_Courses">Python. Programming Basics</a></li>
 <li><a href="https://github.com/Andrexyxyx/AutoTest_Python_Courses">Python Test Automation (with Selenium)</a></li>
 </ul> </p>
