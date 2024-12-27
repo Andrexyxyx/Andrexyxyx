@@ -58,6 +58,7 @@
 </p>
 
 
+
 <h2>Test Artifacts & Helpful Materials</h2>
 <p> 
 <ul>
@@ -71,7 +72,7 @@
 <li><a href="https://github.com/osukhorukova/mongodb">!!!Bash</a></li>
 <li><a href="https://github.com/osukhorukova/mongodb">!!!Git</a></li>
 
-<li><a href="https://github.com/Andrexyxyx/SQL">SQL</a></li>
+<li><a href="https://github.com/Andrexyxyx/SQL_And_NoSQL/blob/master/SQL-examples">Примеры основных SQL-запросов</a></li>
 <li><a href="https://github.com/Andrexyxyx/Python_Programming_Courses">Python. Programming Basics</a></li>
 <li><a href="https://github.com/Andrexyxyx/AutoTest_Python_Courses">Python Test Automation (with Selenium)</a></li>
 </ul> </p>
