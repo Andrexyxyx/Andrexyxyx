@@ -74,4 +74,9 @@
 
 <li><a href="https://github.com/Andrexyxyx/Python_Programming_Courses">Python. Programming Basics</a></li>
 <li><a href="https://github.com/Andrexyxyx/AutoTest_Python_Courses">Python Test Automation (with Selenium)</a></li>
+
+<li><a href="https://github.com/Andrexyxyx/Java_Programming_Courses">Java. Programming Basics</a></li>
+
+
+<li><a href="https://github.com/Andrexyxyx/JavaScript_Programming_Courses">JavaScript. Programming Basics</a></li>
 </ul> </p>
