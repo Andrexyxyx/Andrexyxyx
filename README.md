@@ -1,11 +1,3 @@
-<style>
-   h4 {
-    margin-top:; /* Отступ сверху */
-    margin-bottom: 0; /* Отступ снизу */    
-   }
-  </style>
-
-
 <h2>Hello everyone! My name is Andrey, I am a QA engineer. This is my GitHub.</h2>
 
 <p>Here I would like to share useful materials, tips and cheat sheets that I use for testing and more.</p>
