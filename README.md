@@ -1,3 +1,11 @@
+<style>
+   h4 {
+    margin-top:; /* Отступ сверху */
+    margin-bottom: 0; /* Отступ снизу */    
+   }
+  </style>
+
+
 <h2>Hello everyone! My name is Andrey, I am a QA engineer. This is my GitHub.</h2>
 
 <p>Here I would like to share useful materials, tips and cheat sheets that I use for testing and more.</p>
@@ -62,20 +70,23 @@
 <h2>Test Artifacts & Helpful Materials</h2>
 <p> 
 <ul>
+<h4>Тестовые фрейморки</h4>
+<li><a href="https://github.com/Andrexyxyx/AutoTest_Playwright_Python_Courses">Playwright Test Automation (Pytest + Selenide)</a></li>
+<li><a href="https://github.com/Andrexyxyx/AutoTest_Python_Courses">Python Test Automation (Pytest + Selenium)</a></li>
+<li><a href="https://github.com/Andrexyxyx/AutoTest_TestNG_Java_Courses">Java Test Automation (TestNG + Maven)</a></li>
+<li><a href="https://github.com/Andrexyxyx/AutoTest_Java_Courses">Java Test Automation (JUnit + Gradle)</a></li>
+<h4><h4>Языки программирования</h4></h4>
 <li><a href="https://github.com/Andrexyxyx/Python_Programming_Courses">Python. Programming Basics</a></li>
-<li><a href="https://github.com/Andrexyxyx/AutoTest_Python_Courses">Python Test Automation (with Selenium)</a></li>
-<li><a href="https://github.com/Andrexyxyx/AutoTest_Playwright_Python_Courses">Playwright Test Automation (with Python)</a></li>
-
 <li><a href="https://github.com/Andrexyxyx/Java_Programming_Courses">Java. Programming Basics</a></li>
-<li><a href="https://github.com/Andrexyxyx/AutoTest_Java_Courses">Java Test Automation</a></li>
-<li><a href="https://github.com/Andrexyxyx/JavaScript_Programming_Courses">JavaScript. Programming Basics</a></li>
 
+<li><a href="https://github.com/Andrexyxyx/JavaScript_Programming_Courses">JavaScript. Programming Basics</a></li>
+<h4>SQL & NoSQL</h4>
 <li><a href="https://github.com/Andrexyxyx/SQL_And_NoSQL/blob/master/SQL-examples">SQL-query</a></li>
 <li><a href="https://github.com/Andrexyxyx/SQL_And_NoSQL/blob/master/NoSQL-examples">NoSQL-query (MongoDB)</a></li>
-
+<h4>Linux & GIT</h4>
 <li><a href="https://github.com/Andrexyxyx/Linux_And_GIT/blob/master/Linux-examples">Linux Command</a></li>
 <li><a href="https://github.com/Andrexyxyx/Linux_And_GIT/blob/master/GIT-examples">GIT Command</a></li>
-
+<h4>Локаторы, HTML & CSS</h4>
 <li><a href="https://github.com/Andrexyxyx/HTML_And_CSS/blob/master/LocatorsSearching-examples">Locators Searching</a></li>
 <li><a href="https://github.com/Andrexyxyx/HTML_And_CSS/blob/master/HTML-examples">HTML</a></li>
 <li><a href="https://github.com/Andrexyxyx/HTML_And_CSS/blob/master/CSS-examples">CSS</a></li>
