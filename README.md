@@ -73,8 +73,9 @@
 
 <li><a href="https://github.com/Andrexyxyx/JavaScript_Programming_Courses">JavaScript. Programming Basics</a></li>
 <h4>SQL & NoSQL</h4>
-<li><a href="https://github.com/Andrexyxyx/SQL_And_NoSQL/blob/master/SQL-examples">SQL-query</a></li>
-<li><a href="https://github.com/Andrexyxyx/SQL_And_NoSQL/blob/master/NoSQL-examples">NoSQL-query (MongoDB)</a></li>
+<li><a href="https://github.com/Andrexyxyx/SQL_And_NoSQL_And_GraphQL/blob/master/SQL-examples">SQL-query</a></li>
+<li><a href="https://github.com/Andrexyxyx/SQL_And_NoSQL_And_GraphQL/blob/master/GraphQL-examples">GraphQL-query</a></li>
+<li><a href="https://github.com/Andrexyxyx/SQL_And_NoSQL_And_GraphQL/blob/master/NoSQL-examples">NoSQL-query (MongoDB)</a></li>
 <h4>Linux & GIT</h4>
 <li><a href="https://github.com/Andrexyxyx/Linux_And_GIT/blob/master/Linux-examples">Linux Command</a></li>
 <li><a href="https://github.com/Andrexyxyx/Linux_And_GIT/blob/master/GIT-examples">GIT Command</a></li>
