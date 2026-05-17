@@ -70,8 +70,10 @@
 <h4><h4>Языки программирования</h4></h4>
 <li><a href="https://github.com/Andrexyxyx/Python_Programming_Courses">Python. Programming Basics</a></li>
 <li><a href="https://github.com/Andrexyxyx/Java_Programming_Courses">Java. Programming Basics</a></li>
-
 <li><a href="https://github.com/Andrexyxyx/JavaScript_Programming_Courses">JavaScript. Programming Basics</a></li>
+<h4><h4>CI/CD</h4></h4>
+<li><a href="https://github.com/Andrexyxyx/Jenkins_And_GitLabCI_Config">Jenkins. Конфигурационный файл pipeline (*.groovy)</a></li>
+<li><a href="https://github.com/Andrexyxyx/Jenkins_And_GitLabCI_Config">GitLab CI. Конфигурационный файл pipeline (*.*.gitlab-ci.yml)</a></li>
 <h4>SQL & GraphQL & NoSQL</h4>
 <li><a href="https://github.com/Andrexyxyx/SQL_And_NoSQL_And_GraphQL/blob/master/SQL-examples">SQL-query</a></li>
 <li><a href="https://github.com/Andrexyxyx/SQL_And_NoSQL_And_GraphQL/blob/master/GraphQL-examples">GraphQL-query</a></li>
